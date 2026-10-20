@@ -1,0 +1,1 @@
+Hello from Terraform practice - version 2
